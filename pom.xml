@@ -5,6 +5,7 @@
   <modelVersion>4.0.0</modelVersion>
     <groupId>com.javadevelopersguide.www</groupId>
     <artifactId>hello-world-spring-boot</artifactId>
+    <packaging>war</packaging>
     <version>0.0.1-SNAPSHOT</version>
     <description>This is a hello world example with Spring Boot.</description>
     <parent>
